@@ -1,0 +1,16 @@
+.formula p{
+    font-style:italic;
+    font-size:22px;
+}
+
+.datos p{
+    color:#e0e7ff;
+}
+
+.calculos p{
+    color:#fef9c3;
+}
+
+.resultado{
+    border:2px solid #22c55e;
+}
